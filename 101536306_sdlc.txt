@@ -1,1 +1,2 @@
 DevOps bridges development and operations to enable continuous integration and delivery
+Automated testing and monitoring improve code quality and reduce time-to-market
