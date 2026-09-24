@@ -1,1 +1,2 @@
 COMP 3104 covers DevOps principles, CI/CD pipelines, and infrastructure automation.
+Tools covered include Git, GitHub Actions, Docker, and Bash scripting.
